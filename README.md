@@ -13,6 +13,11 @@ This project demonstrates:
 
 ---
 
+## Project URL
+
+https://github.com/swatikeshri-2005/Dockerfile-scratch
+
+
 ## 📁 Project Structure
 
 ```
@@ -147,6 +152,4 @@ Swati Keshri
 This project is open-source and free to use.
 
 
-## Project URL
 
-https://github.com/swatikeshri-2005/Dockerfile-scratch
